@@ -34,11 +34,11 @@ LightGallery is a **powerful, lightweight, and feature-rich** gallery solution f
 
 ## Screenshot 1
 
-<img src="https://github.com/haripadajena/lightgallery/lg1.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/haripadajena/lightgallery/blob/main/lg1.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
 
 ## Screenshot 2
 
-<img src="https://github.com/haripadajena/lightgallery/lg2.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/haripadajena/lightgallery/blob/main/lg2.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
  
 **Demo:** [Live Demo](https://haripadajena.github.io/lightgallery/)  
 **Repository:** [GitHub Repository](https://github.com/haripadajena/lightgallery/)
